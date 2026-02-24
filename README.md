@@ -23,12 +23,16 @@
 
 ## 🎵 Currently vibing to
 
-<div align="center">
-  <!-- Official High-Res Artwork -->
-  <img src="https://is1-ssl.mzstatic.com" 
-       alt="Dominic Fike - White Keys Official Artwork" 
-       width="400"/>
-</div>
+<iframe 
+  style="border-radius:12px" 
+  src="https://open.spotify.com/embed/track/4cOdK2wGLETKBW3PvgPWqT" 
+  width="100%" 
+  height="152" 
+  frameBorder="0" 
+  allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+  loading="lazy">
+</iframe>
 
 ## ✍️ Random dev quote
 
