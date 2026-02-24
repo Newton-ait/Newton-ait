@@ -24,7 +24,7 @@
 ## 🎵 Currently vibing to
 
 <div align="center">
-  <img src="https://www.google.com/imgres?imgurl=https://www.amksongs.com.ng/wp-content/uploads/2026/02/IMG_6234.webp&imgrefurl=https://www.amksongs.com.ng/dominic-fike-white-keys/&h=188&w=335&tbnid=hJ8O40DHe1iw4M&tbnh=168&tbnw=300&osm=1&hcb=1&docid=-ZpVkUFsVry62M" alt="Spotify recently played"/>
+  <img src="https://www.reddit.com/r/DominicFike/comments/1owg4kx/white_keys/" alt="Spotify recently played"/>
 </div>
 
 ## ✍️ Random dev quote
