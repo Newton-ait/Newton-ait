@@ -24,7 +24,7 @@
 ## 🎵 Currently vibing to
 
 <div align="center">
-  <img src="https://www.google.com/imgres?imgurl=https://s.mxmcdn.net/community-dynamic-images/community/lyrics?options%3DeyJkZXRhaWxzIjoiQeKAsmlnaHQsIHBpdGNoIGJsYWNrIENoZXZ5IGFudGlxdWUsIEkgd2FzIDE3XG5JIGFpbid0IGhhdmUgbm90aGluZyBidXQgc29tZSB0ZWVzIGFuZCBhIHBhaXIgb2YgamVhbnNcblBhbG0gdHJlZXMsIGJ1dCBpdCBzbWVsbCBsaWtlIHdlZWQgaW4gdGhlIGZyb250IHNlYXRcbllvdSB3YXMgZW4gcm91dGUgdG8gYmVpbmcgZmFtb3VzIGFuZCBldmVyeXRoaW5nXG5XaGl0ZSBrZXlzLCDigLJjYXVzZSBzaGUncyB3YXkgdG9vIG1ham9yIGZvciBldmVyeXRoaW5nIiwibG9nbyI6Imh0dHBzOi8vcy5teG1jZG4ubmV0L2ltYWdlcy1zdG9yYWdlL2FsYnVtczIvNy85LzYvNi81LzAvOTgwNTY2OTdfNTAwXzUwMC5qcGciLCJuYW1lIjoiRG9taW5pYyBGaWtlIiwidGl0bGUiOiJXaGl0ZSBLZXlzIn0%3D%26imageFormat%3Djpeg%26signature%3DFjMYJrClv9%2BXArizIhwHXqJHgbCJ8cF9rq%2BZFXhXQ9w%26signature_protocol%3Dsha256&imgrefurl=https://www.musixmatch.com/de/songtext/Dominic-Fike/White-Keys&h=630&w=1200&tbnid=Am5NTyrSQdwlLM&tbnh=163&tbnw=310&osm=1&hcb=1&docid=gouMe2_LzXCtSM" alt="Spotify recently played"/>
+  <img src="https://www.google.com/imgres?imgurl=https://www.amksongs.com.ng/wp-content/uploads/2026/02/IMG_6234.webp&imgrefurl=https://www.amksongs.com.ng/dominic-fike-white-keys/&h=188&w=335&tbnid=hJ8O40DHe1iw4M&tbnh=168&tbnw=300&osm=1&hcb=1&docid=-ZpVkUFsVry62M" alt="Spotify recently played"/>
 </div>
 
 ## ✍️ Random dev quote
