@@ -24,7 +24,7 @@
 ## 🎵 Currently vibing to
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31a23daok5et7s4o4wa7g3u5gtfy&unique=true&width=1000&count=3" alt="Spotify recently played"/>
+  <img src="https://open.spotify.com/user/31a23daok5et7s4o4wa7g3u5gtfy?si=HkvCJMRNQ9ibINuzmvg4kQ" alt="Spotify recently played"/>
 </div>
 
 ## ✍️ Random dev quote
