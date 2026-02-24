@@ -24,7 +24,10 @@
 ## 🎵 Currently vibing to
 
 <div align="center">
-  <img src="https://www.reddit.com/r/DominicFike/comments/1owg4kx/white_keys/" alt="Spotify recently played"/>
+  <!-- Official High-Res Artwork -->
+  <img src="https://is1-ssl.mzstatic.com" 
+       alt="Dominic Fike - White Keys Official Artwork" 
+       width="400"/>
 </div>
 
 ## ✍️ Random dev quote
