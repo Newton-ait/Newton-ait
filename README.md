@@ -12,15 +12,75 @@
 
 ## 💻 Tech I use
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap,js,ts,react,nextjs,redux,vite" /><br/>
+<div align="left">
+  <img align="right" height="250" src="https://img1.picmix.com/output/stamp/normal/9/9/1/5/1585199_1d7b0.gif" />
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,firebase,mysql,postgres,prisma,redis" /><br/>
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,arduino,figma,linux" />
-
+  <!-- Row 1: Frontend Core -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite" />
+  </div>
+  
+  <!-- Row 2: Styling -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styled components" />
+  </div>
+  
+  <!-- Row 3: Backend & Databases -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis" />
+  </div>
+  
+  <!-- Row 4: DevOps & Tools -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />
+  </div>
+</div>
 ## 🎵 Currently vibing to
 
 <iframe 
