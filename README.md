@@ -4,9 +4,9 @@
 
 ## 🚀 What I'm building
 
-- **Rando Chat** – Production real-time anonymous chat platform. Next.js, TypeScript, Supabase. 50K+ lines • [10k+ line PR merged](https://github.com/rando-chat/Rando/pull/1) • Core contributor @rando-chat
+**[Rando Chat](https://rando-chat.vercel.app)** – A tiered anonymous chat platform with real-time messaging, content moderation, and premium subscriptions. Built from scratch with Next.js, TypeScript, and Supabase.
 
-
+• 176+ components • Real-time matchmaking with queue priority • $0/month infrastructure (Supabase free tier) • Ready to scale to 50k+ users
 
 ## 💻 Tech I use
 
@@ -21,13 +21,26 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 📊 GitHub at a glance
+## 🎵 Currently vibing to
 
-- 🔭 Working on: Rando Chat v3 production release
-- 🌱 Learning: System design • Real-time architectures
-- 👯 Looking to collaborate on: Open source chat, Android, or full-stack tools
-- 💬 Ask me about: Shipping production features as a student
-- 📫 Reach me: [newashiraf@gmail.com](mailto:newashiraf@gmail.com)
-- ⚡ Fun fact: First PR merged into @rando-chat org • 50K+ lines shipped before graduation
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31a23daok5et7s4o4wa7g3u5gtfy&unique=true&width=1000&count=3" alt="Spotify recently played"/>
+</div>
+
+## ✍️ Random dev quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
+
+## 📫 Find me elsewhere
+
+`[your links placeholder]`
+
+## ⚡ Fun fact
+
+`[your fun fact placeholder]`
+
+---
 
 ![Profile views](https://komarev.com/ghpvc/?username=Newton-ait&color=blue)
