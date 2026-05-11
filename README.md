@@ -15,7 +15,7 @@
 - Real-time audio pipeline, custom voice detection, Chrome Extension
 
 ### 💬 Rando Chat — Anonymous Chat Platform
-*Tiered real-time chat with matchmaking — built in 3 weeks*
+*Tiered real-time chat with matchmaking*
 
 - **Stack:** Next.js, TypeScript, Supabase, Tailwind
 - 176+ components, real-time queue priority system
