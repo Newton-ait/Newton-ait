@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Newton
 
-**Computer Engineering @ Ndejde University** • Building production systems on free tiers
+**Computer Engineering @ Ndejde University**
 
 <img align="right" height="250" src="https://img1.picmix.com/output/stamp/normal/9/9/1/5/1585199_1d7b0.gif" />
 
@@ -9,25 +9,20 @@
 ## 🚀 Featured Projects
 
 ### 🏄 Surf AI — Voice AI Platform
-*A full voice pipeline with defense-grade security — running on $0/month*
+*Real-time voice assistant with speech-to-text, AI chat, and text-to-speech*
 
-- Real-time **STT → LLM → Azure Neural TTS** audio processing
-- Custom **Voice Activity Detection** tuned to 96.9% F1 vs Whisper
-- **5-layer auth chain**: JWT → Session Token → Origin Gating → Extension ID → Rate Limiting
-- Distributed across **Vercel, Render, Supabase, Cloudflare, HuggingFace**
-- Sandbox architecture — embeddable voice AI in any web page via iframe
-- Chrome Extension integration with postMessage protocol
+- **Stack:** Vercel, Render, Supabase, HuggingFace, Cloudflare
+- Real-time audio pipeline, custom voice detection, Chrome Extension
 
 ### 💬 Rando Chat — Anonymous Chat Platform
 *Tiered real-time chat with matchmaking — built in 3 weeks*
 
+- **Stack:** Next.js, TypeScript, Supabase, Tailwind
 - 176+ components, real-time queue priority system
-- Next.js, TypeScript, Supabase, Tailwind
-- Ready to scale to 50k+ users
 
 ---
 
-## 💻 Tech I use
+## 💻 Tech
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,express,python,fastapi,tailwind,postgres,mongodb,redis,supabase,docker,git,linux,figma" />
@@ -35,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Newton-ait&show_icons=true&theme=dark" height="150" />
