@@ -11,7 +11,7 @@
 ### 🏄 Surf AI — Voice AI Platform
 *Real-time voice assistant with speech-to-text, AI chat, and text-to-speech*
 
-- **Stack:** Vercel, Render, Supabase, HuggingFace, Cloudflare
+- **Stack:** Vercel, Firebase, Supabase, Cloudflare
 - Real-time audio pipeline, custom voice detection, Chrome Extension
 
 ### 💬 Rando Chat — Anonymous Chat Platform
